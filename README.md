@@ -7,29 +7,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Introduction to GitHub
+# GitHub Skills Sandlot
 
-_Get started using GitHub in less than an hour._
-
-</header>
-
-<!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
--->
-
-## Finish
-
-_Congratulations, you've completed this course and joined the world of developers!_
-
-<img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
-
-Here's a recap of your accomplishments:
-
-- You learned about GitHub, repositories, branches, commits, and pull requests.
-- You created a branch, a commit, and a pull request.
-- You merged a pull request.
-- You made your first contribution! :tada:
+_A repository for completing Github learning modules._
 
 ### What's next?
 
